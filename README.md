@@ -3,7 +3,7 @@
 ![](airplane.jpg)
 
 ## Introduction
-This PowerBI project aims to boost customer satisfaction for **Dano Airlines** by analyzing feedback from over 120,000 passengers. The goal is to identify key areas for improvement and devise a data-driven strategy, presented in a concise report or dashboard.
+This Power BI project aims to boost customer satisfaction for **Dano Airlines** by analyzing feedback from over 120,000 passengers. The goal is to identify key areas for improvement and devise a data-driven strategy, presented in a concise report or dashboard.
 
 **_Disclaimer_**: _This report is based on a practice dataset and does not represent any actual company, institution, or country. It is intended to demonstrate the capabilities of Power BI._
 
